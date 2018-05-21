@@ -1,2 +1,2 @@
 # 0BCD
-test
+0BCD自用
